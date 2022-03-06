@@ -1,4 +1,8 @@
 # forMoths
-A single page blog site made with React
+A single page tech demonstration on using various components!
 
-## Welcome to the blog!
+## Moth Themes
+This page features information regarding moths
+
+## Resources
+
