@@ -27,7 +27,7 @@ function App() {
           </AccordionSummary>
           <AccordionDetails>
             <Typography>
-              This is the sample text for the accordion
+              <Body></Body>
             </Typography>
           </AccordionDetails>
       </Accordion>
