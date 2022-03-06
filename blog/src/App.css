@@ -40,3 +40,7 @@
 .container {
   width: 25rem;
 }
+
+ul {
+  text-align: center;
+}
