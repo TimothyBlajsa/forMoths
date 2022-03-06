@@ -65,7 +65,6 @@ function App() {
             </Typography>
           </AccordionDetails>
       </Accordion>
-
     </div>
       </header>
     </div>
